@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 MSc in Electrical and Computer Engineering (year 4.9/5)
+- 🌱 MSc in Electrical and Computer Engineering
 - 🔭 I’m currently learning Rust and Nix
 - ⚡ Always looking for new opportunities 
